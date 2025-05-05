@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.1.2
+pkgdown_sha: ~
+articles:
+  pkgdown.offline: pkgdown.offline.html
+  update: update.html
+last_built: 2025-05-05T18:18Z
+urls:
+  reference: https://nanx.me/pkgdown.offline/reference
+  article: https://nanx.me/pkgdown.offline/articles
